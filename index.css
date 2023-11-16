@@ -78,12 +78,11 @@ a:active {text-decoration:underline;}  /* selected link */
 /*右对齐*/
 
 #nav{ 
-	height:40px;	
-	margin-bottom:5px;
-    background-color: #6cf; 
-    font: 18px/30px 微软雅黑;
-	color: #fff;
-	letter-spacing: 8px;
-    text-align: center;
- 
+ height:40px;	
+ margin-bottom:5px;
+ background-color: #6cf; 
+ font: 18px/30px 微软雅黑;
+ color: #fff;
+ letter-spacing: 8px;
+ text-align: center;
 }
