@@ -4,3 +4,9 @@
 
 layout: home
 ---
+<div class="container">
+
+  <h2>Welcome come here ! </h2><p><strong>Browse my blog :)</strong></p>
+  <p>From an igorant learner</p>
+  
+</div>
