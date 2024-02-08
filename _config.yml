@@ -12,12 +12,13 @@ github_username: Right202209
 #facebook_username: facebook
 
 # External API
-giscus_repo:
-giscus_repoId:
-giscus_category:
-giscus_categoryId:
+giscus_repo: "Droite7/Droite7.github.io"
+giscus_repoId: "R_kgDOKdPpzQ"
+giscus_category: "Q&A"
+giscus_categoryId: "DIC_kwDOKdPpzc4CdA2y"
 goatcounter_code:
 google_analytics:
+
 
 # Build settings
 plugins:
