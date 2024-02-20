@@ -1,6 +1,7 @@
 ---
 title: "数据库原理"
 tags:
+    - myblog
     - utility
     - giscus
 date: "2024-02-08"
